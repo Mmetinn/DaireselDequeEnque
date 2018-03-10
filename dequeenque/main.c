@@ -1,5 +1,3 @@
-//Muhammet METÝN
-//15010011029
 
 #include <stdio.h>
 #include <stdlib.h>
