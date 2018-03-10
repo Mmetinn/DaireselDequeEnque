@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509717251 source:c:\users\metin\desktop\programlama\dev c++\veriyapýlarý\linkeddaireseldequeueequeue\dequeenque\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
